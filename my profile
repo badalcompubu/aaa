@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Ashutosh Kumar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Ashutosh Kumar</h1>
+    <p>Student at Shri Phanishwar Nath Renu Engineering College, Araria</p>
+    <p>Reg No: 23105165006 | Branch: CSE | Location: Bihar</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Ashutosh Kumar, currently pursuing B.Tech in Computer Science and Engineering (CSE) at Shri Phanishwar Nath Renu Engineering College, Araria, Bihar. I'm passionate about learning new technologies and building a strong foundation in software development.</p>
+  </section>
+
+  <section class="details">
+    <h2>My Interests</h2>
+    <ul>
+      <li>Web Development</li>
+      <li>Competitive Programming</li>
+      <li>Learning New Technologies</li>
+      <li>Exploring Civilizational History</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Ashutosh Kumar. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
